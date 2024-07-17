@@ -1,6 +1,4 @@
-Here is a description and instructions you can use for your README file on GitHub:
 
----
 
 # Python, Data Science & Machine Learning Integrated - Hybrid Project
 
@@ -13,11 +11,11 @@ This repository contains the project completed as part of the "Python, Data Scie
 ### Project Title: Mall Customer Segmentation
 
 ### Objective
-The primary objective of this project is to [insert your project’s main goal, e.g., "analyze and predict trends in a dataset using various data science and machine learning techniques"].
+The primary objective of this project is to analyze customer data from a mall and segment the customers into distinct groups using various data science and machine learning techniques.
 
 ### Features and Functionalities
 
-- **Data Collection and Preprocessing**: The project starts with data collection from [mention the source, e.g., "Kaggle dataset, CSV files, etc."]. The data is then cleaned and preprocessed to handle missing values, outliers, and other inconsistencies.
+- **Data Collection and Preprocessing**: The project starts with data collection from Kaggle. The data is then cleaned and preprocessed to handle missing values, outliers, and other inconsistencies.
 
 - **Exploratory Data Analysis (EDA)**: Detailed exploratory data analysis is performed to understand the data better. This includes:
   - Summary statistics
@@ -82,6 +80,10 @@ jupyter notebook your_notebook.ipynb
 
 Follow the instructions provided in the notebook to run the various sections of the project, including data preprocessing, EDA, model training, and evaluation.
 
+## Links
+
+- [Project Notebook on Google Colab](https://colab.research.google.com/drive/1TnOBz5WTBvXwTcFKuEdt1xnbIunUWWjH?usp=sharing)
+
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements, bug fixes, or new features.
@@ -94,3 +96,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Special thanks to the course instructors and fellow students for their guidance and support throughout this project.
 
+## Future Work
+
+- **Expand the Dataset**: Use larger and more diverse datasets to enhance the robustness of the models.
+- **Advanced Models**: Explore advanced machine learning techniques such as deep learning.
+- **Deployment**: Deploy the models using web frameworks to make them accessible to a wider audience.
