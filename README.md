@@ -10,7 +10,7 @@ This repository contains the project completed as part of the "Python, Data Scie
 
 ## Project Details
 
-### Project Title: [Your Project Title Here]
+### Project Title: Mall Customer Segmentation
 
 ### Objective
 The primary objective of this project is to [insert your project’s main goal, e.g., "analyze and predict trends in a dataset using various data science and machine learning techniques"].
